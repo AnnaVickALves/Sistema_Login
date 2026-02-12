@@ -1,3 +1,1 @@
-Para rodar a aplicaçaão
-No terminal digite:
-mvn javafx:run
+Para rodar a aplicação, digite no terminal:  mvn javafx:run
